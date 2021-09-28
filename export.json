@@ -1,0 +1,14 @@
+{
+  "version": "7.10.2",
+  "objects": [
+    {
+      "id": "e222f470-0f98-11ec-838b-073cef48b43f",
+      "type": "dashboard",
+      "error": {
+        "statusCode": 404,
+        "error": "Not Found",
+        "message": "Saved object [dashboard/e222f470-0f98-11ec-838b-073cef48b43f] not found"
+      }
+    }
+  ]
+}
